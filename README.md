@@ -18,7 +18,7 @@ This project will be completed over two days.
 
 ## Part 1, due after completing the first module.
 
-### Complete the following endpoints:
+### Complete the following endpoints:  
 
 | Method | Endpoint      | Description                                                                                                                                                                                                                                                                                         |
 | ------ | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
