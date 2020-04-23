@@ -1,4 +1,4 @@
-# Authentication Project
+# Authentication Project    
 
 ## Topics
 
@@ -14,7 +14,7 @@ Use `Node.js`, `Express` and `Knex` to build an API that provides **Register** a
 
 ## Assignment
 
-Complete the following endpoints:
+
 
 | Method | Endpoint      | Description                                                                                                                                                                                                                                                                                         |
 | ------ | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
